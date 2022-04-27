@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Masorubka1
+- 👋 Hi, I’m Maltsev Andrey
 - 👀 I’m interested in Math and chess
 - 🌱 I’m currently learning django & ml
 - 💞️ I’m looking to collaborate on ...
