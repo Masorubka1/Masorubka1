@@ -1,7 +1,5 @@
 - 👋 Hi, I’m Maltsev Andrey
-- 👀 I’m interested in math and chess
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in math, distibuted systems, blockchain projects and chess
 - 📫 How to reach me @masorubka in tg
 
 <!---
